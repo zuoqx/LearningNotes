@@ -5,9 +5,13 @@
 ---
 **八种基本数据类型的大小，以及他们的封装类。**
 
-八种基本数据类型，int ,double ,long ,float, short,byte,character,boolean
+8种基本数据类型，byte（8位）, char（16位）,short（16位），int（32位） ,long（54位）,float（32位）,double（64位）,boolean
 
 对应的封装类型是：Integer ,Double ,Long ,Float, Short,Byte,Character,Boolean
+
+基本类型和对应的包装类之间，可以相互转化，这叫做自动装箱和自动拆箱
+
+http://hinylover.space/2016/06/16/relearn-java-base-type-and-wrapper/
 
 ---
 
